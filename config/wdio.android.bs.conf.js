@@ -13,7 +13,7 @@ config.key = process.env.BROWSERSTACK_KEY;
 
 config.specs = [
 
-    '/Users/crifa/wdio-appium/test/specs/android-native.spec.js'
+    `${process.env.LOCAL_PATH}/test/specs/android-native.spec.js`
 ];
 
   // ============
