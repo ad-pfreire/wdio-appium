@@ -1,4 +1,4 @@
-const AddNoteScreen = require("../screenobjects/android/add-note.screen");
+const AddNoteScreen = require("../screenobjects/android/add-note.screen"); // AAALOOO???ASDASDASDASDEW
 
 describe('Delete Note', () => {
     it('Skip Tutorial', async () => {
