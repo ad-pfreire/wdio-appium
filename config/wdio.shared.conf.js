@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports.config = {
     //
-    // ====================
+    // ==================== // TEEEEEST GITHUB COMMINT POL 1 
     // Runner Configuration
     // ====================
     // WebdriverIO supports running e2e tests as well as unit and component tests.
